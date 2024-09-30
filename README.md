@@ -1,4 +1,4 @@
-# Student Management System - Technology Assessment
+# Student Management System 
 
 ## Overview
 This project is a **Student Management System** designed to allow users to log in, view courses, manage course registration, and view course schedules. The system is implemented as a REST API application, deployed on a WebLogic server, and utilizes modern technologies such as JWT for authentication and Redis for caching. All API interactions are stateless.
